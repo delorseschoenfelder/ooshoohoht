@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://afaibooti.luisagottardo.co.uk/sitemap.xml
